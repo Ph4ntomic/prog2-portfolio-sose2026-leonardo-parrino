@@ -42,3 +42,9 @@ b01-git-gradle/
 Dieses Repository enthält nur relevante Lösungen, Quelltexte, Notizen und Artefakte zu den Übungsblättern.
 
 Private Daten, Zugangsdaten, Tokens und API-Keys werden nicht gespeichert.
+
+## Post Mortem
+
+Die Post Mortems werden wie vorgegeben separat in ILIAS abgegeben.
+
+Im jeweiligen Post Mortem verlinke ich die passenden Artefakte aus diesem Repository. Dadurch bleiben personenbezogene Daten außerhalb des öffentlichen GitHub-Repositories.
