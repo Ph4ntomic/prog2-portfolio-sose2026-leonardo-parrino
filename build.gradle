@@ -1,29 +1,30 @@
 plugins {
-
     id 'java'
-
+    id 'application'
+    id 'com.diffplug.spotless' version '8.4.0'
 }
 
-
-
-group = 'org.example' // Kannst du anpassen
-
+group = 'de.ph4ntomic.prog2'
 version = '1.0-SNAPSHOT'
 
-
-
 repositories {
-
     mavenCentral()
-
 }
 
-
-
 dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter:6.0.0'
+}
 
-    // Hier kommen später deine externen Bibliotheken rein (z.B. JUnit, Spring, etc.)
+test {
+    useJUnitPlatform()
+}
 
-    // testImplementation 'org.junit.jupiter:junit-jupiter-api:5.10.0'
+application {
+    mainClass = 'VersionCheck'
+}
 
+spotless {
+    java {
+        googleJavaFormat()
+    }
 }
