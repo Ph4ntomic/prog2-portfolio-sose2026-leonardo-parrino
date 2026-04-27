@@ -1,0 +1,29 @@
+plugins {
+
+    id 'java'
+
+}
+
+
+
+group = 'org.example' // Kannst du anpassen
+
+version = '1.0-SNAPSHOT'
+
+
+
+repositories {
+
+    mavenCentral()
+
+}
+
+
+
+dependencies {
+
+    // Hier kommen später deine externen Bibliotheken rein (z.B. JUnit, Spring, etc.)
+
+    // testImplementation 'org.junit.jupiter:junit-jupiter-api:5.10.0'
+
+}
