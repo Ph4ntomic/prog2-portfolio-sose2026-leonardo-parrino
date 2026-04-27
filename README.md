@@ -8,16 +8,16 @@ Die Post Mortems werden separat in ILIAS abgegeben. In ILIAS wird jeweils nur de
 
 ## Übersicht
 
-| Blatt | Thema | Status | Ordner |
-|---|---|---|---|
-| B01 | Git Basics, Gradle | in Arbeit | [`b01-git-gradle`](./b01-git-gradle) |
-| B02 | offen | offen | [`b02`](./b02) |
-| B03 | offen | offen | [`b03`](./b03) |
-| B04 | offen | offen | [`b04`](./b04) |
-| B05 | offen | offen | [`b05`](./b05) |
-| B06 | offen | offen | [`b06`](./b06) |
-| B07 | offen | offen | [`b07`](./b07) |
-| B08 | offen | offen | [`b08`](./b08) |
+| Blatt | Thema | Status | Ordner                    |
+|---|---|---|---------------------------|
+| B01 | Git Basics, Gradle | in Arbeit | [`B01`](./b01-git-gradle) |
+| B02 | offen | offen | [`b02`](./B02)            |
+| B03 | offen | offen | [`b03`](./B03)            |
+| B04 | offen | offen | [`b04`](./B04)            |
+| B05 | offen | offen | [`b05`](./B05)            |
+| B06 | offen | offen | [`b06`](./B06)            |
+| B07 | offen | offen | [`b07`](./B07)            |
+| B08 | offen | offen | [`b08`](./B08)            |
 
 ---
 
