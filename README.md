@@ -14,7 +14,7 @@ Die Post Mortems werden separat in ILIAS abgegeben. In ILIAS wird jeweils nur de
 | B02 | offen | offen | [`b02`](./B02)            |
 | B03 | offen | offen | [`b03`](./B03)            |
 | B04 | offen | offen | [`b04`](./B04)            |
-| B05 | offen | offen | [`b05`](./B05)            |
+| B05 | ANTLR, Visitor, Mocking | erledigt | [`B05`](./B05)            |
 | B06 | offen | offen | [`b06`](./B06)            |
 | B07 | offen | offen | [`b07`](./B07)            |
 | B08 | offen | offen | [`b08`](./B08)            |
