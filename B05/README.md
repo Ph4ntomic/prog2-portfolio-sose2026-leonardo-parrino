@@ -31,13 +31,13 @@ Ergebnis:
 
 ```text
 Syntaxhighlighting:
-33 Tests
+35 Tests
 0 Failures
 0 Skipped
 BUILD SUCCESSFUL
 
 Cycle Chronicles:
-14 Tests
+15 Tests
 0 Failures
 0 Skipped
 BUILD SUCCESSFUL
@@ -51,6 +51,12 @@ Syntaxhighlighting:
 https://github.com/Ph4ntomic/prog2_ybel_syntaxhighlighting
 ```
 
+GitHub-Stand:
+
+```text
+master: e88a342 fix: preserve spaces around annotations
+```
+
 Cycle Chronicles:
 
 ```text
@@ -60,5 +66,5 @@ https://github.com/Ph4ntomic/prog2_ybel_cyclechronicles
 GitHub-Stand:
 
 ```text
-master: d682d54 test: cover shop workflow with mock orders
+master: 7b5a751 test: cover repaired customer reordering
 ```

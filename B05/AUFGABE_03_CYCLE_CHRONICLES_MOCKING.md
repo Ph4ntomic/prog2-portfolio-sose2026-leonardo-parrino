@@ -200,13 +200,14 @@ Falls nicht gefunden: Optional.empty().
 
 ## 9. Bonus-Tests
 
-Die Testklasse `ShopWorkflowBonusTest` enthaelt 5 Tests.
+Die Testklasse `ShopWorkflowBonusTest` enthaelt 6 Tests.
 
 Geprueft wird:
 
 - `repair` liefert bei leerer Queue `Optional.empty()`,
 - `repair` arbeitet nach FIFO-Reihenfolge,
 - eine Reparatur gibt wieder Kapazitaet frei,
+- ein reparierter Auftrag zaehlt nicht mehr als offener Auftrag desselben Kunden,
 - `deliver` liefert einen passenden abgeschlossenen Auftrag,
 - `deliver` entfernt ausgelieferte Auftraege,
 - falsche Kunden entfernen keinen Auftrag.
@@ -216,12 +217,12 @@ Geprueft wird:
 | Testklasse | Tests | Zweck |
 |---|---:|---|
 | `ShopAcceptTest` | 9 | Pflichtteil fuer `accept` |
-| `ShopWorkflowBonusTest` | 5 | Bonus fuer `repair` und `deliver` |
+| `ShopWorkflowBonusTest` | 6 | Bonus fuer `repair` und `deliver` |
 
 Insgesamt:
 
 ```text
-14 Tests
+15 Tests
 0 Failures
 0 Skipped
 ```
@@ -238,7 +239,7 @@ Ergebnis:
 
 ```text
 BUILD SUCCESSFUL
-14 Tests
+15 Tests
 0 Failures
 0 Skipped
 ```
@@ -261,7 +262,7 @@ upstream -> https://github.com/Programmiermethoden-CampusMinden/prog2_ybel_cycle
 GitHub-Stand:
 
 ```text
-master: d682d54 test: cover shop workflow with mock orders
+master: 7b5a751 test: cover repaired customer reordering
 ```
 
 ## 13. Fazit

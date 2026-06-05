@@ -224,10 +224,13 @@ formatsClassMembersAndMethodBlocks
 formatsIfElseWhileAndNestedBlocks
 keepsPackageImportsAndTypesOnSeparateLines
 indentsControlledStatementWithoutExplicitBlock
+keepsSpaceAfterAnnotationWithArguments
+keepsSpaceBeforeAnnotationAfterModifier
 ```
 
 Damit werden einfache Klassen, Methoden, verschachtelte Bloecke,
-Kontrollstrukturen, Package- und Import-Zeilen sowie Einzelstatements getestet.
+Kontrollstrukturen, Package- und Import-Zeilen, Einzelstatements sowie
+Annotationen vor und nach Modifiern getestet.
 
 ## 12. Verifikation
 
@@ -241,7 +244,7 @@ Ergebnis:
 
 ```text
 BUILD SUCCESSFUL
-33 Tests
+35 Tests
 0 Failures
 0 Skipped
 ```
@@ -252,4 +255,3 @@ Der Pretty Printer formatiert MiniJava-Code strukturiert. Er ist bewusst auf
 die wichtigsten Regeln konzentriert und versucht nicht, jeden Ausdruck perfekt
 zu verschonern. Dadurch bleibt die Loesung nachvollziehbar und passend zur
 Aufgabenstellung.
-

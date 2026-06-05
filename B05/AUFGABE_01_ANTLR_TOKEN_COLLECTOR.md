@@ -232,7 +232,7 @@ Ergebnis:
 
 ```text
 BUILD SUCCESSFUL
-33 Tests
+35 Tests
 0 Failures
 0 Skipped
 ```
@@ -242,4 +242,3 @@ BUILD SUCCESSFUL
 Der `AntlrTokenCollector` ist umgesetzt. Er nutzt den generierten Lexer,
 erzeugt korrekte Highlight-Bereiche und benoetigt keine eigene
 Konfliktaufloesung mehr.
-
