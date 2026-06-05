@@ -57,8 +57,8 @@ Cycle Chronicles:
 https://github.com/Ph4ntomic/prog2_ybel_cyclechronicles
 ```
 
-Hinweis:
+GitHub-Stand:
 
-Das Cycle-Chronicles-Repository muss noch als eigener Fork auf GitHub angelegt
-und gepusht werden. Lokal ist die Loesung bereits vorbereitet.
-
+```text
+master: d682d54 test: cover shop workflow with mock orders
+```

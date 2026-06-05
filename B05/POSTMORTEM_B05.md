@@ -41,6 +41,5 @@ die unvollstaendige Abhaengigkeit `Order`.
 
 - Syntaxhighlighting:
   <https://github.com/Ph4ntomic/prog2_ybel_syntaxhighlighting/tree/master>
-- Cycle Chronicles nach Fork/Push:
+- Cycle Chronicles:
   <https://github.com/Ph4ntomic/prog2_ybel_cyclechronicles/tree/master>
-

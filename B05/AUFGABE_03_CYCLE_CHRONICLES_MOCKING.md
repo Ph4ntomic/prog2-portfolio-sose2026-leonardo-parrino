@@ -258,9 +258,11 @@ origin   -> https://github.com/Ph4ntomic/prog2_ybel_cyclechronicles.git
 upstream -> https://github.com/Programmiermethoden-CampusMinden/prog2_ybel_cyclechronicles.git
 ```
 
-Wichtig:
+GitHub-Stand:
 
-Der eigene GitHub-Fork muss noch erstellt und der lokale Stand gepusht werden.
+```text
+master: d682d54 test: cover shop workflow with mock orders
+```
 
 ## 13. Fazit
 
@@ -268,4 +270,3 @@ Die Methode `Shop#accept` ist durch Aequivalenzklassen und Grenzwerte
 abgedeckt. Mockito wird gezielt nur fuer `Order` genutzt, weil diese Klasse in
 der Vorlage noch nicht fertig implementiert ist. Der Bonus fuer `repair` und
 `deliver` ist ebenfalls umgesetzt und getestet.
-
