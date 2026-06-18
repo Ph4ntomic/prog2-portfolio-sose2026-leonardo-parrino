@@ -1,0 +1,11 @@
+Query: not not artist == "Beatles"
+Raw: (not (not (artist == "Beatles")))
+Simplified: (artist == "Beatles")
+
+Query: not not not artist == "Beatles"
+Raw: (not (not (not (artist == "Beatles"))))
+Simplified: (not (artist == "Beatles"))
+
+Query: not (not genre in ("rock", "jazz") and not not year >= 1990)
+Raw: (not ((not (genre in ("rock", "jazz"))) and (not (not (year >= 1990)))))
+Simplified: (not ((not (genre in ("rock", "jazz"))) and (year >= 1990)))
