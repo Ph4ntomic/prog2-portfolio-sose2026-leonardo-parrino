@@ -1,0 +1,39 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'com.diffplug.spotless' version '8.4.0'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:6.0.3')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+}
+
+java.toolchain.languageVersion = JavaLanguageVersion.of(25)
+java.sourceCompatibility = JavaVersion.VERSION_25
+java.targetCompatibility = JavaVersion.VERSION_25
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+    options.release = 25
+}
+
+application {
+    mainClass = 'zoo.ZooDemoMain'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+spotless {
+    java {
+        googleJavaFormat().reflowLongStrings()
+        target '**/*.java'
+    }
+}
