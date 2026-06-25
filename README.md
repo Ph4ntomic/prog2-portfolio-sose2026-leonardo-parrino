@@ -2,11 +2,7 @@
   <img src="./assets/HSBI_Logo_RGB_schwarz.png" alt="Hochschule Bielefeld" width="480">
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=005A8B&center=true&vCenter=true&width=600&lines=Programmieren+2+%E2%80%93+L%C3%B6sungen" alt="Programmieren 2 – Lösungen">
-  </a>
-</p>
+<h1 align="center">Programmieren 2 – Lösungen</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Semester-SoSe%202026-005A8B?style=for-the-badge" alt="Sommersemester 2026">
