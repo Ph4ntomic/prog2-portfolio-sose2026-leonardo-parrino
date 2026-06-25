@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="#uebersicht">📚 Übersicht</a> ·
-  <a href="#fortschritt">📊 Fortschritt</a> ·
-  <a href="#aufbau">📁 Aufbau</a> ·
-  <a href="#hinweise">ℹ️ Hinweise</a> ·
-  <a href="#post-mortems">📝 Post Mortems</a>
+  <a href="#uebersicht">Übersicht</a> ·
+  <a href="#fortschritt">Fortschritt</a> ·
+  <a href="#aufbau">Aufbau</a> ·
+  <a href="#hinweise">Hinweise</a> ·
+  <a href="#post-mortems">Post Mortems</a>
 </p>
 
 Dieses Repository enthält meine Lösungen und Arbeitsstände zu den Übungsblättern im Modul **Programmieren 2** im Sommersemester 2026.
@@ -25,34 +25,34 @@ Dieses Repository enthält meine Lösungen und Arbeitsstände zu den Übungsblä
 ---
 
 <a id="uebersicht"></a>
-## 📚 Übersicht
+## Übersicht
 
 | Blatt | Thema | Status | Ordner |
 |---|---|---|---|
-| B01 | Git-Grundlagen und Gradle | ✅ erledigt | [`B01`](./B01) |
-| B02 | Git-Branches, JUnit und CI | ✅ erledigt | [`B02`](./B02) |
-| B03 | Lambda-Ausdrücke, Methodenreferenzen und Observer | ✅ erledigt | [`B03`](./B03) |
-| B04 | Reguläre Ausdrücke, Scanner und Syntaxhighlighting | ✅ erledigt | [`B04`](./B04) |
-| B05 | ANTLR, Visitor und Mocking | ✅ erledigt | [`B05`](./B05) |
-| B06 | Visitor, Pattern Matching und AST-Normalisierung | ✅ erledigt | [`B06`](./B06) |
-| B07 | Generics, sealed Types, Streams und Logging | ✅ erledigt | [`B07`](./B07) |
-| B08 | Optional, Command-Pattern, Undo/Redo und Result | ✅ erledigt | [`B08`](./B08) |
+| B01 | Git-Grundlagen und Gradle | erledigt | [`B01`](./B01) |
+| B02 | Git-Branches, JUnit und CI | erledigt | [`B02`](./B02) |
+| B03 | Lambda-Ausdrücke, Methodenreferenzen und Observer | erledigt | [`B03`](./B03) |
+| B04 | Reguläre Ausdrücke, Scanner und Syntaxhighlighting | erledigt | [`B04`](./B04) |
+| B05 | ANTLR, Visitor und Mocking | erledigt | [`B05`](./B05) |
+| B06 | Visitor, Pattern Matching und AST-Normalisierung | erledigt | [`B06`](./B06) |
+| B07 | Generics, sealed Types, Streams und Logging | erledigt | [`B07`](./B07) |
+| B08 | Optional, Command-Pattern, Undo/Redo und Result | erledigt | [`B08`](./B08) |
 
 ---
 
 <a id="fortschritt"></a>
-## 📊 Fortschritt
+## Fortschritt
 
 | Bereich | Stand | Fortschritt |
 |---|---:|---|
-| Gesamt | 8 / 8 | `██████████` 100 % |
-| B01 bis B04 | 4 / 4 | `██████████` 100 % |
-| B05 bis B08 | 4 / 4 | `██████████` 100 % |
+| Gesamt | 8 / 8 | 100 % |
+| B01 bis B04 | 4 / 4 | 100 % |
+| B05 bis B08 | 4 / 4 | 100 % |
 
 ---
 
 <a id="aufbau"></a>
-## 📁 Aufbau
+## Aufbau
 
 Jedes Übungsblatt erhält einen eigenen Ordner.
 
@@ -70,7 +70,7 @@ B08/
 ---
 
 <a id="hinweise"></a>
-## ℹ️ Hinweise
+## Hinweise
 
 Dieses Repository enthält nur relevante Lösungen, Quelltexte, Notizen und Artefakte zu den Übungsblättern.
 
@@ -80,7 +80,7 @@ Dieses Repository enthält nur relevante Lösungen, Quelltexte, Notizen und Arte
 ---
 
 <a id="post-mortems"></a>
-## 📝 Post Mortems
+## Post Mortems
 
 > [!TIP]
 > Die Post Mortems werden separat in ILIAS abgegeben. Dort verlinke ich die passenden Artefakte aus diesem Repository.
