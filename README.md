@@ -64,14 +64,10 @@ Dieses Repository enthält nur relevante Lösungen, Quelltexte, Notizen und Arte
 
 Private Daten, Zugangsdaten, Tokens und API-Keys werden nicht im Repository gespeichert.
 
----
-
 <a id="post-mortems"></a>
 ## Post Mortems
 
 Die Post Mortems werden separat in ILIAS abgegeben. Dort verlinke ich die passenden Artefakte aus diesem Repository.
-
----
 
 <a id="modulreflexion"></a>
 ## Modulreflexion
