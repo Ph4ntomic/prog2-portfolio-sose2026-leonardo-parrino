@@ -72,10 +72,6 @@ Die Post Mortems werden separat in ILIAS abgegeben. Dort verlinke ich die passen
 <a id="modulreflexion"></a>
 ## Modulreflexion
 
-Das Modul hat mir besonders gut gefallen, weil es nah an realistischen Entwicklungsabläufen aufgebaut war. Ein großer Teil der Organisation lief über GitHub. Dabei wurden Branches, Pull Requests, Reviews, Tests und Continuous Integration nicht nur theoretisch behandelt, sondern in den Übungsaufgaben praktisch eingesetzt. Dadurch habe ich Programmierung nicht nur als Schreiben von Java-Code, sondern als vollständigen Entwicklungsprozess kennengelernt.
+Das Modul hat mir besonders gut gefallen, weil die praxisnahen Übungsaufgaben Java-Themen mit realistischen Entwicklungsabläufen über GitHub, Branches, Pull Requests, Reviews, Tests und Continuous Integration verbunden haben.
 
-Auch die überwiegend remote organisierte Arbeitsweise war für mich sehr hilfreich. Inhalte, Aufgabenstellungen und Hinweise waren jederzeit verfügbar und nachvollziehbar. Dadurch konnte ich Anforderungen noch einmal nachlesen und die Zusammenhänge zwischen den einzelnen Themen besser erkennen.
-
-Besonders positiv fand ich die sorgfältige Vorbereitung des Moduls. Die Verbindung aus klarer GitHub-Struktur, Aufgabenblättern, konkreten Projekten und praktischen Workflows machte das Arbeiten transparent und half mir, die Inhalte von Programmieren 2 praxisnah zu verstehen.
-
-Für mein weiteres Studium nehme ich vor allem mit, dass eine saubere Projektstruktur, nachvollziehbare Commits, automatisierte Tests, Reviews und Dokumentation genauso wichtig sind wie die eigentliche Implementierung.
+Für mein weiteres Studium nehme ich mit, dass saubere Projektstrukturen, nachvollziehbare Commits, automatisierte Tests, Reviews und Dokumentation genauso wichtig sind wie die eigentliche Implementierung.
