@@ -11,7 +11,6 @@
 
 <p align="center">
   <a href="#uebersicht">Übersicht</a> ·
-  <a href="#fortschritt">Fortschritt</a> ·
   <a href="#aufbau">Aufbau</a> ·
   <a href="#hinweise">Hinweise</a> ·
   <a href="#post-mortems">Post Mortems</a>
@@ -37,17 +36,6 @@ Dieses Repository enthält meine Lösungen und Arbeitsstände zu den Übungsblä
 | B06 | Visitor, Pattern Matching und AST-Normalisierung | erledigt | [`B06`](./B06) |
 | B07 | Generics, sealed Types, Streams und Logging | erledigt | [`B07`](./B07) |
 | B08 | Optional, Command-Pattern, Undo/Redo und Result | erledigt | [`B08`](./B08) |
-
----
-
-<a id="fortschritt"></a>
-## Fortschritt
-
-| Bereich | Stand | Fortschritt |
-|---|---:|---|
-| Gesamt | 8 / 8 | 100 % |
-| B01 bis B04 | 4 / 4 | 100 % |
-| B05 bis B08 | 4 / 4 | 100 % |
 
 ---
 
