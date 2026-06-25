@@ -13,7 +13,8 @@
   <a href="#uebersicht">Übersicht</a> ·
   <a href="#aufbau">Aufbau</a> ·
   <a href="#hinweise">Hinweise</a> ·
-  <a href="#post-mortems">Post Mortems</a>
+  <a href="#post-mortems">Post Mortems</a> ·
+  <a href="#modulreflexion">Modulreflexion</a>
 </p>
 
 Dieses Repository enthält meine Lösungen und Arbeitsstände zu den Übungsblättern im Modul **Programmieren 2** im Sommersemester 2026.
@@ -69,3 +70,14 @@ Private Daten, Zugangsdaten, Tokens und API-Keys werden nicht im Repository gesp
 ## Post Mortems
 
 Die Post Mortems werden separat in ILIAS abgegeben. Dort verlinke ich die passenden Artefakte aus diesem Repository.
+
+---
+
+<a id="modulreflexion"></a>
+## Modulreflexion
+
+Das Modul hat mir geholfen, Programmierung stärker als vollständigen Entwicklungsprozess zu verstehen. Neben der eigentlichen Java-Implementierung standen auch GitHub-Workflows, Branches, Pull Requests, Reviews, Tests und Continuous Integration im Mittelpunkt.
+
+Die Aufgaben waren praxisnah aufgebaut und haben viele zentrale Konzepte aus Programmieren 2 in konkrete Projekte übertragen. Dadurch wurden Themen wie JUnit, Observer, reguläre Ausdrücke, ANTLR, Visitor, Mocking, Generics, Streams und Command-Pattern nachvollziehbar anwendbar.
+
+Besonders wertvoll war für mich die Verbindung aus sauberer Projektstruktur, automatisierten Tests, Dokumentation und nachvollziehbarer Versionsverwaltung.
