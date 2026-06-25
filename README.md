@@ -4,20 +4,22 @@ Dieses Repository enthält meine Lösungen und Arbeitsstände zu den Übungsblä
 
 Die Post Mortems werden separat in ILIAS abgegeben. In ILIAS wird jeweils nur der passende Link zu den relevanten Artefakten in diesem Repository eingefügt.
 
+**Stand: 25. Juni 2026**
+
 ---
 
 ## Übersicht
 
-| Blatt | Thema | Status | Ordner                    |
-|---|---|---|---------------------------|
-| B01 | Git Basics, Gradle | in Arbeit | [`B01`](./b01-git-gradle) |
-| B02 | offen | offen | [`b02`](./B02)            |
-| B03 | offen | offen | [`b03`](./B03)            |
-| B04 | offen | offen | [`b04`](./B04)            |
-| B05 | ANTLR, Visitor, Mocking | erledigt | [`B05`](./B05)            |
-| B06 | offen | offen | [`b06`](./B06)            |
-| B07 | offen | offen | [`b07`](./B07)            |
-| B08 | offen | offen | [`b08`](./B08)            |
+| Blatt | Thema | Status | Ordner |
+|---|---|---|---|
+| B01 | Git-Grundlagen und Gradle | erledigt | [`B01`](./B01) |
+| B02 | Git-Branches, JUnit und CI | erledigt | [`B02`](./B02) |
+| B03 | Lambda-Ausdrücke, Methodenreferenzen und Observer | erledigt | [`B03`](./B03) |
+| B04 | Reguläre Ausdrücke, Scanner und Syntaxhighlighting | erledigt | [`B04`](./B04) |
+| B05 | ANTLR, Visitor und Mocking | erledigt | [`B05`](./B05) |
+| B06 | Visitor, Pattern Matching und AST-Normalisierung | erledigt | [`B06`](./B06) |
+| B07 | Generics, sealed Types, Streams und Logging | erledigt | [`B07`](./B07) |
+| B08 | Optional, Command-Pattern, Undo/Redo und Result | erledigt | [`B08`](./B08) |
 
 ---
 
@@ -28,11 +30,12 @@ Jedes Übungsblatt erhält einen eigenen Ordner.
 Beispiel:
 
 ```text
-b01-git-gradle/
+B08/
 ├── README.md
-├── git-quest/
-├── gradle-demo/
-└── notes.md
+├── build.gradle
+└── src/
+    ├── main/java/
+    └── test/java/
 ```
 
 ---
