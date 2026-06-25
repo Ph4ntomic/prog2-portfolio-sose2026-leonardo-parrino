@@ -1,4 +1,13 @@
-# Programmieren 2 – Lösungen
+<p align="center">
+  <img src="./assets/HSBI_Logo_RGB_schwarz.png" alt="Hochschule Bielefeld" width="480">
+</p>
+
+<h1 align="center">Programmieren 2 – Lösungen</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Semester-SoSe%202026-005A8B?style=for-the-badge" alt="Sommersemester 2026">
+  <img src="https://img.shields.io/badge/Fortschritt-8%20von%208%20erledigt-2E7D32?style=for-the-badge" alt="8 von 8 Blättern erledigt">
+</p>
 
 Dieses Repository enthält meine Lösungen und Arbeitsstände zu den Übungsblättern im Modul **Programmieren 2** im Sommersemester 2026.
 
