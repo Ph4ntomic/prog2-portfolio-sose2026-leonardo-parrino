@@ -76,8 +76,10 @@ Die Post Mortems werden separat in ILIAS abgegeben. Dort verlinke ich die passen
 <a id="modulreflexion"></a>
 ## Modulreflexion
 
-Das Modul hat mir geholfen, Programmierung stärker als vollständigen Entwicklungsprozess zu verstehen. Neben der eigentlichen Java-Implementierung standen auch GitHub-Workflows, Branches, Pull Requests, Reviews, Tests und Continuous Integration im Mittelpunkt.
+Das Modul hat mir besonders gut gefallen, weil es nah an realistischen Entwicklungsabläufen aufgebaut war. Ein großer Teil der Organisation lief über GitHub. Dabei wurden Branches, Pull Requests, Reviews, Tests und Continuous Integration nicht nur theoretisch behandelt, sondern praktisch eingesetzt. Dadurch habe ich Programmierung nicht nur als Schreiben von Java-Code, sondern als vollständigen Entwicklungsprozess kennengelernt.
 
-Die Aufgaben waren praxisnah aufgebaut und haben viele zentrale Konzepte aus Programmieren 2 in konkrete Projekte übertragen. Dadurch wurden Themen wie JUnit, Observer, reguläre Ausdrücke, ANTLR, Visitor, Mocking, Generics, Streams und Command-Pattern nachvollziehbar anwendbar.
+Auch die überwiegend remote organisierte Arbeitsweise war für mich sehr angenehm. Inhalte, Aufgabenstellungen und Diskussionen blieben dauerhaft nachvollziehbar. Dadurch konnte ich Anforderungen und Hinweise jederzeit nachlesen und die Zusammenhänge zwischen den einzelnen Themen besser erkennen.
 
-Besonders wertvoll war für mich die Verbindung aus sauberer Projektstruktur, automatisierten Tests, Dokumentation und nachvollziehbarer Versionsverwaltung.
+Besonders positiv fand ich die sorgfältige Vorbereitung des Moduls. Die Verbindung aus klarer GitHub-Struktur, Aufgabenblättern, konkreten Projekten und praktischen Workflows machte das Arbeiten transparent und half mir, die Inhalte von Programmieren 2 praxisnah zu verstehen.
+
+Für mein weiteres Studium nehme ich vor allem mit, dass eine saubere Projektstruktur, nachvollziehbare Commits, automatisierte Tests, Reviews und Dokumentation genauso wichtig sind wie die eigentliche Implementierung.
