@@ -18,8 +18,7 @@
 
 Dieses Repository enthält meine Lösungen und Arbeitsstände zu den Übungsblättern im Modul **Programmieren 2** im Sommersemester 2026.
 
-> [!IMPORTANT]
-> **Stand: 25. Juni 2026.** Die Blätter B01 bis B08 sind bearbeitet und im jeweiligen Ordner dokumentiert.
+**Stand: 25. Juni 2026.** Die Blätter B01 bis B08 sind bearbeitet und im jeweiligen Ordner dokumentiert.
 
 ---
 
@@ -62,13 +61,11 @@ B08/
 
 Dieses Repository enthält nur relevante Lösungen, Quelltexte, Notizen und Artefakte zu den Übungsblättern.
 
-> [!NOTE]
-> Private Daten, Zugangsdaten, Tokens und API-Keys werden nicht im Repository gespeichert.
+Private Daten, Zugangsdaten, Tokens und API-Keys werden nicht im Repository gespeichert.
 
 ---
 
 <a id="post-mortems"></a>
 ## Post Mortems
 
-> [!TIP]
-> Die Post Mortems werden separat in ILIAS abgegeben. Dort verlinke ich die passenden Artefakte aus diesem Repository.
+Die Post Mortems werden separat in ILIAS abgegeben. Dort verlinke ich die passenden Artefakte aus diesem Repository.
